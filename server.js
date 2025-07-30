@@ -10,7 +10,7 @@ const authRoutes = require('./Routes/authRoutes');
 const testimonialsRouter = require('./Routes/testimonials');
 const cartRoutes = require('./Routes/cartRoutes');
 
-const allowed = ['http://localhost:3000', 'https://vegetablesdelivery-server.onrender.com'];
+const allowed = ['http://localhost:3000', 'https://vegetablesdelivery-server.onrender.com' , 'https://vegetablesdelivery.netlify.app'];
 app.use(cors({
   origin: (origin, cb) => {
     if (!origin || allowed.includes(origin)) return cb(null, true);

@@ -12,11 +12,11 @@ const cartRoutes = require('./Routes/cartRoutes');
 
 const allowed = ['http://localhost:3000', 'https://vegetablesdelivery-server.onrender.com'];
 app.use(cors({
-    origin: (origin, cb) => {
-        if (!origin || allowed.includes(origin)) return cb(null, true);
-        cb(new Error('Not allowed by CORS'));
-    },
-    credentials: true,
+  origin: (origin, cb) => {
+    if (!origin || allowed.includes(origin)) return cb(null, true);
+    cb(new Error('Not allowed by CORS'));
+  },
+  credentials: true,
 }));
 
 //app.use(cors({ origin: true, credentials: true }));

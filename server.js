@@ -4,7 +4,7 @@ const mongoose = require('mongoose');
 const cors = require('cors');
 require('dotenv').config();
 let port = 5400;
-const papersRoutes = require('./Routes/papersRoutes');
+
 const productsRoutes = require('./Routes/productsRoutes');
 const authRoutes = require('./Routes/authRoutes');
 const testimonialsRouter = require('./Routes/testimonials');
@@ -37,11 +37,11 @@ app.use((req, res, next) => {
     next();
 });
 
-app.use('/', papersRoutes);
+
 app.use('/', productsRoutes);
-app.use('/',testimonialsRouter);
+app.use('/', testimonialsRouter);
 app.use('/api/auth', authRoutes);
-app.use('/api/cart',cartRoutes);
+app.use('/api/cart', cartRoutes);
 
 
 

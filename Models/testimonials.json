@@ -1,0 +1,21 @@
+ [
+    {
+      "img": "https://preview.colorlib.com/theme/vegefoods/images/person_1.jpg",
+      "text": "Far far away, behind the word mountains, far from the countries Vokalia.",
+      "name": "John Doe",
+      "role": "Customer"
+    },
+    {
+      "img": "https://preview.colorlib.com/theme/vegefoods/images/person_2.jpg",
+      "text": "Separated they live in Bookmarksgrove right at the coast of the Semantics.",
+      "name": "Jane Smith",
+      "role": "Customer"
+    },
+    {
+      "img": "https://preview.colorlib.com/theme/vegefoods/images/person_3.jpg",
+      "text": "A small river named Duden flows by their place and supplies it with the necessary.",
+      "name": "Mike Johnson",
+      "role": "Customer"
+    }
+   
+  ]

@@ -1,0 +1,254 @@
+[
+    {
+        "id": 1,
+        "name": "CARROTS",
+        "price": "$2.50",
+        "category": "vegetable",
+        "city": "Chandigarh",
+        "description": "A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until.",
+        "img": "https://preview.colorlib.com/theme/vegefoods/images/product-7.jpg.webp",
+        "reviews": [
+            {
+                "username": "Amit",
+                "rating": 5,
+                "comment": "Amazing food! Loved the Butter Chicken."
+            },
+            {
+                "username": "Neha",
+                "rating": 4,
+                "comment": "Great ambiance, but a bit expensive."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "TOMATOES",
+        "price": "$3.00",
+        "category": "vegetable",
+        "city": "pune",
+        "description": "A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until.",
+        "img": "https://preview.colorlib.com/theme/vegefoods/images/product-5.jpg",
+        "reviews": [
+            {
+                "username": "Amit",
+                "rating": 5,
+                "comment": "Amazing food! Loved the Butter Chicken."
+            },
+            {
+                "username": "Neha",
+                "rating": 4,
+                "comment": "Great ambiance, but a bit expensive."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "BROCCOLI",
+        "price": "$2.00",
+        "category": "vegetable",
+        "city": "Chandigarh",
+        "description": "A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until.",
+        "img": "https://preview.colorlib.com/theme/vegefoods/images/product-6.jpg",
+        "reviews": [
+            {
+                "username": "Amit",
+                "rating": 5,
+                "comment": "Amazing food! Loved the Butter Chicken."
+            },
+            {
+                "username": "Neha",
+                "rating": 4,
+                "comment": "Great ambiance, but a bit expensive."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "JUICE",
+        "price": "$1.75",
+        "category": "juice",
+        "city": "Mumbai",
+        "description": "A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until.",
+        "img": "https://preview.colorlib.com/theme/vegefoods/images/product-8.jpg",
+        "reviews": [
+            {
+                "username": "Amit",
+                "rating": 5,
+                "comment": "Amazing food! Loved the Butter Chicken."
+            },
+            {
+                "username": "Neha",
+                "rating": 4,
+                "comment": "Great ambiance, but a bit expensive."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "BELL PEPPER",
+        "price": "$0.80",
+        "category": "vegetable",
+        "city": "Mumbai",
+        "description": "A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until.",
+        "img": "https://preview.colorlib.com/theme/vegefoods/images/product-1.jpg",
+        "reviews": [
+            {
+                "username": "Yash",
+                "rating": 5,
+                "comment": "Amazing food! Loved the Butter Chicken."
+            },
+            {
+                "username": "raha",
+                "rating": 4,
+                "comment": "Great ambiance, but a bit expensive."
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "PURPLE_CABBAGE",
+        "price": "$1.20",
+        "category": "vegetable",
+        "city": "Pune",
+        "description": "A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until.",
+        "img": "https://preview.colorlib.com/theme/vegefoods/images/product-4.jpg",
+        "reviews": [
+            {
+                "username": "Abhi",
+                "rating": 5,
+                "comment": "Amazing food! Loved the Butter Chicken."
+            },
+            {
+                "username": "Gauri",
+                "rating": 4,
+                "comment": "Great ambiance, but a bit expensive."
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "ONION",
+        "price": "$2.50",
+        "category": "vegetable",
+        "city": "Nashik",
+        "description": "A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until.",
+        "img": "https://preview.colorlib.com/theme/vegefoods/images/product-9.jpg",
+        "reviews": [
+            {
+                "username": "Hrithik",
+                "rating": 5,
+                "comment": "Amazing food! Loved the Butter Chicken."
+            },
+            {
+                "username": "Guddu",
+                "rating": 4,
+                "comment": "Great ambiance, but a bit expensive."
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "APPLE",
+        "price": "$3.00",
+        "category": "fruit",
+        "city": "Latur",
+        "description": "A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until.",
+        "img": "https://preview.colorlib.com/theme/vegefoods/images/product-10.jpg",
+        "reviews": [
+            {
+                "username": "Aarti",
+                "rating": 5,
+                "comment": "Amazing food! Loved the Butter Chicken."
+            },
+            {
+                "username": "Aditi",
+                "rating": 4,
+                "comment": "Great ambiance, but a bit expensive."
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Green Beans",
+        "price": "$2.80",
+        "category": "vegetable",
+        "city": "Banglore",
+        "description": "A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until.",
+        "img": "https://preview.colorlib.com/theme/vegefoods/images/product-3.jpg",
+        "reviews": [
+            {
+                "username": "utarsh",
+                "rating": 5,
+                "comment": "Amazing food! Loved the Butter Chicken."
+            },
+            {
+                "username": "Kajal",
+                "rating": 4,
+                "comment": "Great ambiance, but a bit expensive."
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Chili",
+        "price": "$4.00",
+        "category": "vegetable",
+        "city": "Goa",
+        "description": "A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until.",
+        "img": "https://preview.colorlib.com/theme/vegefoods/images/product-12.jpg",
+        "reviews": [
+            {
+                "username": "manish",
+                "rating": 5,
+                "comment": "Amazing food! Loved the Butter Chicken."
+            },
+            {
+                "username": "kau",
+                "rating": 4,
+                "comment": "Great ambiance, but a bit expensive."
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "GARLIC",
+        "price": "$2.20",
+        "category": "vegetable",
+        "city": "Goa",
+        "description": "A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until.",
+        "img": "https://preview.colorlib.com/theme/vegefoods/images/product-11.jpg",
+        "reviews": [
+            {
+                "username": "Abhi",
+                "rating": 5,
+                "comment": "Amazing food! Loved the Butter Chicken."
+            },
+            {
+                "username": "Hrithik",
+                "rating": 4,
+                "comment": "Great ambiance, but a bit expensive."
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Stawberry",
+        "price": "$2.20",
+        "category": "fruit",
+        "city": "Nagpur",
+        "description": "A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until.",
+        "img": "https://preview.colorlib.com/theme/vegefoods/images/product-2.jpg",
+        "reviews": [
+            {
+                "username": "Shravani",
+                "rating": 5,
+                "comment": "Amazing food! Loved the Butter Chicken."
+            },
+            {
+                "username": "Digvijay",
+                "rating": 4,
+                "comment": "Great ambiance, but a bit expensive."
+            }
+        ]
+    }
+]
